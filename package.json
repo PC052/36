@@ -1,7 +1,7 @@
 {
   "name": "rimurubotz",
   "version": "1.0.0",
-  "description": "Bot whatsapp multi device",
+  "description": "Developed By Dapa",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
